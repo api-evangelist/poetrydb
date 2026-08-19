@@ -14,7 +14,7 @@ image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/poetrydb.p
 name: PoetryDB
 description: "Enables you to get instant data from our vast poetry collection"
 url: https://github.com/thundercomb/poetrydb#readme
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-05-28'
 modified: '2026-05-28'
 x-source: public-apis/public-apis
